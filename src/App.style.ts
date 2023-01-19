@@ -38,21 +38,21 @@ export const Button = styled.div`
     cursor: pointer;
   }
 
-  button:first-child{
-    background: url('/assets/arrow.svg') no-repeat center;
-  }
-
   button:nth-child(2){
-    transform: rotate(180deg);
-    background: url('/assets/arrow.svg') no-repeat center;
-  }
-
-  button:nth-child(3){
-    transform: rotate(90deg);
     background: url('/assets/arrow.svg') no-repeat center;
   }
 
   button:nth-child(4){
+    transform: rotate(180deg);
+    background: url('/assets/arrow.svg') no-repeat center;
+  }
+
+  button:nth-child(6){
+    transform: rotate(90deg);
+    background: url('/assets/arrow.svg') no-repeat center;
+  }
+
+  button:nth-child(8){
     transform: rotate(-90deg);
     background: url('/assets/arrow.svg') no-repeat center;
   }
