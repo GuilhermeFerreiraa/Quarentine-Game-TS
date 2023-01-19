@@ -62,6 +62,6 @@ export const Text = styled.div`
   display:flex;
   justify-content: center;
   color: #fff;
-  font-size: 2rem;
+  font-size: 1.5rem;
   font-family: 'Poppins',sans-serif;
 `

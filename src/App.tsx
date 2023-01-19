@@ -2,7 +2,6 @@ import * as React from 'react'
 import * as C from './App.style'
 import Character from './Components/Character'
 import useCharacter from './hooks/useCharacter'
-import AutoTyping, { BlinkCursor } from 'react-auto-typing'
 
 export default function App() {
   const char = useCharacter();
@@ -42,16 +41,7 @@ export default function App() {
     <C.Body>
       <C.Container>
         <C.Text>
-          <AutoTyping
-            active // <boolean>
-            textRef='Welcome to Quarentine!' // <string>
-            writeSpeed={500} // <number>
-            delayToWrite={1200} // <number>
-          />
-          <BlinkCursor
-            active // <boolean>
-            blinkSpeed={700} // <number>
-          />
+           Welcome to Quarentine!
         </C.Text>
 
         <C.Map>
