@@ -5,12 +5,13 @@
  :memo: <a href="#memo-licença">Licença</a>
 </p>
 
-- podemos jogar utilizando as teclas ```w, a, s, d``` e as teclas ``` ↑ ↓ → ←``` 
+
 <p align="center">
   <img alt="xbox-desktop" src="https://cdn.discordapp.com/attachments/784133268592132107/1065457725678559362/quarentine-game-front.netlify.app_.png" width="100%">
 </p>
 
 - Acessar Link da página: https://quarentine-game-front.netlify.app
+- podemos jogar utilizando as teclas ```w, a, s, d``` e as teclas ``` ↑ ↓ → ←``` 
 - Suporta até dois jogadores
 
 ## 🚀 Tecnologias
