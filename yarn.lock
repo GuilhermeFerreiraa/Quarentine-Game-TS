@@ -634,11 +634,6 @@
     "picocolors" "^1.0.0"
     "source-map-js" "^1.0.2"
 
-"react-auto-typing@^1.0.0":
-  "integrity" "sha512-Q6X0BpG7WB4+/MXEsykT/Jc32B98QRiDr128kZcPWTpbqdrjjBvVSFm1DWasTSkO8Jh8X1MNlQmgG1hTLpRU7Q=="
-  "resolved" "https://registry.npmjs.org/react-auto-typing/-/react-auto-typing-1.0.0.tgz"
-  "version" "1.0.0"
-
 "react-dom@^18.0.0":
   "integrity" "sha512-6IMTriUmvsjHUjNtEDudZfuDQUoWXVxKHhlEGSk81n4YFS+r/Kl99wXiwlVXtPBtJenozv2P+hxDsw9eA7Xo6g=="
   "resolved" "https://registry.npmjs.org/react-dom/-/react-dom-18.2.0.tgz"
